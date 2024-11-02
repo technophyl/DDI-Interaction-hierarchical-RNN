@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+jupyterlab
+tensorflow
+keras
+nltk
+svgling
+networkx
+spacy
+gensim
+scikit-learn
